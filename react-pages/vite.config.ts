@@ -13,3 +13,4 @@ export default defineConfig({
     outDir: 'public',  // Output to public folder
   },
 })
+
